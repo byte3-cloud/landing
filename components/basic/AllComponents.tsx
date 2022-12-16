@@ -17,25 +17,25 @@ import JsComponents from './js-components';
 import CallToAction from '../call-to-action/CallToAction';
 
 const AllComponents = () => {
-    return (
-        <div>
-            <Banner />
-            <Buttons />
-            <Labels />
-            <PagePagination />
-            <Images />
-            <Breadcrumbs />
-            <Cards />
-            <Dropdowns />
-            <PageForm />
-            <PageTable />
-            <Notification />
-            <TooltipPopover />
-            <Typography />
-            <JsComponents />
-            <CallToAction />
-        </div>
-    );
+	return (
+		<div>
+			<Banner />
+			<Buttons />
+			<Labels />
+			<PagePagination />
+			<Images />
+			<Breadcrumbs />
+			<Cards />
+			<Dropdowns />
+			<PageForm />
+			<PageTable />
+			<Notification />
+			<TooltipPopover />
+			<Typography />
+			<JsComponents />
+			<CallToAction />
+		</div>
+	);
 };
 
 export default AllComponents;
