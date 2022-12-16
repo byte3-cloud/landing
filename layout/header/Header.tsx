@@ -7,7 +7,6 @@ import logo from '../../assets/images/logos/logo_title@1024.png';
 
 const Header = () => {
 	const [isOpen, setIsOpen] = useState(false);
-	const router = useRouter();
 	const toggle = () => setIsOpen(!isOpen);
 	return (
 		<div className="topbar" id="top">
