@@ -1,6 +1,8 @@
 import React from 'react';
-import { Row, Col, Container, Form } from 'reactstrap';
+
 import Image from 'next/image';
+import { Row, Col, Container } from 'reactstrap';
+
 import banner from '../assets/images/dashboard.png';
 
 const Banner1 = () => {

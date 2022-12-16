@@ -1,7 +1,9 @@
 import React from 'react';
+
+import Image from 'next/image';
 import Link from 'next/link';
 import { Container, Row, Col } from 'reactstrap';
-import Image from 'next/image';
+
 import dalle from '../assets/images/dalle_1.png';
 
 const Hero = () => {

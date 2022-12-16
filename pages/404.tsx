@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/link-passhref */
 import Head from 'next/head';
 import Link from 'next/link';
 import { Container, Row, Col, Button } from 'reactstrap';
