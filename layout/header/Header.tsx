@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
+
 import Image from 'next/image';
 import Link from 'next/link';
-import { useRouter } from 'next/router';
 import { Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, Container, NavLink } from 'reactstrap';
-import logo from '../../assets/images/logos/logo_title@1024.png';
+
+import logo from '../../assets/images/logos/logo_minimal@1024.png';
 
 const Header = () => {
 	const [isOpen, setIsOpen] = useState(false);
