@@ -27,9 +27,10 @@ const FeatureComponent = () => {
 									</div>
 									<h5 className="font-medium">Consultancy</h5>
 									<p className="m-t-20">
-										We offer 10+ years of exeperience in software architecture, mainly focuse on
-										enhance industrial process and products. We help both startup and established
-										corporates reduce the friction to improve the time to market.
+										We offer 10+ years of exeperience in software architecture, mainly focused on
+										enhance industrial processes and products. We help both startups and established
+										corporates reduce the friction to connect devices to the cloud improving
+										dramatically time-to-market.
 									</p>
 									<a href="mailto:hello@byte3.cloud" className="linking text-themecolor">
 										Request a quote<i className="ti-arrow-right"></i>
@@ -45,10 +46,10 @@ const FeatureComponent = () => {
 									</div>
 									<h5 className="font-medium">Development</h5>
 									<p className="m-t-20">
-										Sometimes in-house developments are not the best option, that's why we offer
-										different types of partnership also for development outsourcing, whether it's a
-										web API, a desktop application or a mobile app, we always know how to find the
-										right fit.
+										Sometimes in-house software development is not the best option, that's why we
+										offer different kinds of partnership also for outsourcing. Whether it's a web
+										API, a desktop application or a mobile app, together with our best in the market
+										partners we always know how to find the right fit.
 									</p>
 									<a href="mailto:hello@byte3.cloud" className="linking text-themecolor">
 										Request a quote<i className="ti-arrow-right"></i>
@@ -75,8 +76,8 @@ const FeatureComponent = () => {
 											for growth business
 										</h3>
 										<p>
-											You can relay on our service list to have <b>connected devices</b> in days,
-											no more months.
+											You can relay on our services to have <b>connected devices</b> in days, no
+											more months.
 										</p>
 										<a className="btn btn-danger btn-md btn-arrow m-t-20" href="#">
 											<span>
